@@ -9,6 +9,7 @@ I'm Bruno, also knows as *Heroslender*, and I make plugins for bukkit servers. I
 [![Discord](https://img.shields.io/discord/455337556746305538?label=Discord&logo=Discord&logoColor=white&style=flat-square&labelColor=7289da&color=555555)][discord]
 
 Ohh, and don't forget to hop into my discord if you would like to get more updated info on what I'm currently working on:
+
 [![Discord](https://heroslender.com/discord/banner)][discord]
 
 [youtube]: https://www.youtube.com/Heroslender06
