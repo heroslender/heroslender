@@ -1,8 +1,8 @@
 ### Hello there stranger 👋
 
 I'm Bruno, also knows as *Heroslender*, and I make plugins for bukkit servers. If you feel interested check some them below 👇👇
-
-Ohh, and don't forget to hop into my discord if you would like to get more updated info on what I'm currently working on:
+<br/>
+Ohh, and don't forget to hop into my discord if you would like to get more updated info on what I'm currently working on!
 
 [![GitHub](https://img.shields.io/github/followers/heroslender?&label=GitHub&logo=Github&logoColor=white&style=flat-square&labelColor=24292e&color=555555)][github]
 [![Youtube](https://img.shields.io/badge/Youtube-45-eeeeee?style=flat-square&logo=Youtube&logoColor=white&labelColor=e62117&color=555555)][youtube]
