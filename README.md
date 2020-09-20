@@ -6,7 +6,7 @@ Ohh, and don't forget to hop into my discord server if you'd like to get more up
 
 [![GitHub](https://img.shields.io/github/followers/heroslender?&label=GitHub&logo=Github&logoColor=white&style=flat-square&labelColor=24292e&color=555555)][github]
 [![Youtube](https://img.shields.io/badge/Youtube-45-eeeeee?style=flat-square&logo=Youtube&logoColor=white&labelColor=e62117&color=555555)][youtube]
-[![Instagram](https://img.shields.io/badge/Instagram-29-eeeeee?style=flat-square&logo=Instagram&logoColor=white&labelColor=c13584&color=555555)][instagram]
+[![Instagram](https://img.shields.io/badge/Instagram-33-eeeeee?style=flat-square&logo=Instagram&logoColor=white&labelColor=c13584&color=555555)][instagram]
 [![Twitter](https://img.shields.io/twitter/follow/Heroslender06?label=Twitter&logo=Twitter&logoColor=white&style=flat-square&labelColor=blue&color=555555)][twitter]
 [![Discord](https://img.shields.io/discord/455337556746305538?label=Discord&logo=Discord&logoColor=white&style=flat-square&labelColor=7289da&color=555555)][discord]
 
